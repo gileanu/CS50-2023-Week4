@@ -13,4 +13,3 @@ Submitted:<br>
 https://cs50.harvard.edu/x/2023/psets/4/
 
 Submitted:<br>
-[filter_less.c(implementation inside filter_less_helpers.c)](filter_less_helpers.c)<br>
